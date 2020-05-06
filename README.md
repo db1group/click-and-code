@@ -13,7 +13,7 @@ What about getting an instant access to a HelloWorld example in a fully configur
 Time to take a breath... So this is your chance! Just choose one of the repositories below:
 
 * Python
-* Java
+* [Java]
 * JavaScript (Node.js)
 * [C#]
 * PHP
@@ -30,4 +30,5 @@ From their website:
 Yes... it is IaaS in its state of art!
 
 [Gitpod.io]: https://www.gitpod.io/
+[Java]: https://github.com/db1group/java
 [C#]: https://github.com/db1group/c-sharp
