@@ -30,6 +30,6 @@ From their website:
 Yes... it is IaaS in its state of art!
 
 [Gitpod.io]: https://www.gitpod.io/
-[Pyhton]: https://github.com/db1group/python
+[Python]: https://github.com/db1group/python
 [Java]: https://github.com/db1group/java
 [C#]: https://github.com/db1group/c-sharp
