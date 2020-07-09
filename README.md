@@ -14,7 +14,7 @@ Time to take a breath... So this is your chance! Just choose one of the reposito
 
 * [Python]
 * [Java]
-* JavaScript (Node.js)
+* [Node.js]
 * [C#]
 * [PHP]
 * Kotlin
@@ -32,5 +32,6 @@ Yes... it is IaaS in its state of art!
 [Gitpod.io]: https://www.gitpod.io/
 [Python]: https://github.com/db1group/python
 [Java]: https://github.com/db1group/java
+[Node.js]: https://github.com/db1group/nodejs
 [C#]: https://github.com/db1group/c-sharp
 [PHP]: https://github.com/db1group/php
