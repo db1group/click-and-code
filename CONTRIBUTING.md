@@ -16,3 +16,5 @@ Go to desired repository and open an [Issue](https://guides.github.com/features/
 * Use the present tense ("Add extension" not "Added extension")
 * Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
 * Limit the first line to 72 characters or less
+
+You can find [here](https://chris.beams.io/posts/git-commit/) an excelent article to help you improve your commit messages.
