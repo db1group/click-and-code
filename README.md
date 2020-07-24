@@ -18,7 +18,7 @@ Time to take a breath... So this is your chance! Just choose one of the reposito
 * [C#]
 * [PHP]
 * Kotlin
-* Go
+* [Go]
 
 ## How does it work?
 
@@ -35,3 +35,4 @@ Yes... it is IaaS in its state of art!
 [Node.js]: https://github.com/db1group/nodejs
 [C#]: https://github.com/db1group/c-sharp
 [PHP]: https://github.com/db1group/php
+[Go]: https://github.com/db1group/go
