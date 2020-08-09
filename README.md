@@ -17,7 +17,6 @@ Time to take a breath... So this is your chance! Just choose one of the reposito
 * [Node.js]
 * [C#]
 * [PHP]
-* Kotlin
 * [Go]
 
 ## How does it work?
